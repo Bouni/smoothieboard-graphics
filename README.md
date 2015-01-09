@@ -1,2 +1,3 @@
-# smoothieboard-graphics
-graphics of the smoothieboard
+# Smoothieboard graphics
+
+Graphics of the smoothieboard
