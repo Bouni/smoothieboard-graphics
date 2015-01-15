@@ -35,7 +35,8 @@ This is a list of parts we still need vector graphics for.
 
 ## A thermistor 
 * Requirements( the kind that goes on 3D printer hotends )
-* **Done, but maybe thats not the required type**
+* Done, but maybe thats not the required type 
+* SVG: **components/thermistor.svg**
 
 <img src="https://raw.githubusercontent.com/Bouni/smoothieboard-graphics/master/components/thermistor.png" width="50px">
 
