@@ -113,8 +113,7 @@
      fit-margin-top="100"
      fit-margin-left="100"
      fit-margin-right="100"
-     fit-margin-bottom="100">
-  </sodipodi:namedview>
+     fit-margin-bottom="100" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
@@ -1791,7 +1790,7 @@
        id="g12355">
       <path
          transform="matrix(1.4330752,0,0,1.4330752,-549.18845,-2274.5891)"
-         d="m 1681.4999,4514.48 a 107.48023,107.48023 0 1 1 -214.9605,0 107.48023,107.48023 0 1 1 214.9605,0 z"
+         d="m 1681.4999,4514.48 c 0,59.3597 -48.1206,107.4802 -107.4802,107.4802 -59.3597,0 -107.4803,-48.1205 -107.4803,-107.4802 0,-59.3597 48.1206,-107.4803 107.4803,-107.4803 59.3596,0 107.4802,48.1206 107.4802,107.4803 z"
          sodipodi:ry="107.48023"
          sodipodi:rx="107.48023"
          sodipodi:cy="4514.48"
@@ -1825,7 +1824,7 @@
          style="fill:none;stroke:#ffffff;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
       <path
          transform="translate(30,-350)"
-         d="m 1510,4361 a 34,34 0 1 1 -68,0 34,34 0 1 1 68,0 z"
+         d="m 1510,4361 c 0,18.7777 -15.2223,34 -34,34 -18.7777,0 -34,-15.2223 -34,-34 0,-18.7777 15.2223,-34 34,-34 18.7777,0 34,15.2223 34,34 z"
          sodipodi:ry="34"
          sodipodi:rx="34"
          sodipodi:cy="4361"
@@ -1835,7 +1834,7 @@
          sodipodi:type="arc" />
       <path
          transform="translate(408,-349)"
-         d="m 1510,4361 a 34,34 0 1 1 -68,0 34,34 0 1 1 68,0 z"
+         d="m 1510,4361 c 0,18.7777 -15.2223,34 -34,34 -18.7777,0 -34,-15.2223 -34,-34 0,-18.7777 15.2223,-34 34,-34 18.7777,0 34,15.2223 34,34 z"
          sodipodi:ry="34"
          sodipodi:rx="34"
          sodipodi:cy="4361"
@@ -1845,7 +1844,7 @@
          sodipodi:type="arc" />
       <path
          transform="translate(409,29)"
-         d="m 1510,4361 a 34,34 0 1 1 -68,0 34,34 0 1 1 68,0 z"
+         d="m 1510,4361 c 0,18.7777 -15.2223,34 -34,34 -18.7777,0 -34,-15.2223 -34,-34 0,-18.7777 15.2223,-34 34,-34 18.7777,0 34,15.2223 34,34 z"
          sodipodi:ry="34"
          sodipodi:rx="34"
          sodipodi:cy="4361"
@@ -1855,7 +1854,7 @@
          sodipodi:type="arc" />
       <path
          transform="translate(31,29)"
-         d="m 1510,4361 a 34,34 0 1 1 -68,0 34,34 0 1 1 68,0 z"
+         d="m 1510,4361 c 0,18.7777 -15.2223,34 -34,34 -18.7777,0 -34,-15.2223 -34,-34 0,-18.7777 15.2223,-34 34,-34 18.7777,0 34,15.2223 34,34 z"
          sodipodi:ry="34"
          sodipodi:rx="34"
          sodipodi:cy="4361"
