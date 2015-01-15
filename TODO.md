@@ -33,7 +33,7 @@ This is a list of parts we still need vector graphics for.
 * Example: http://www.ebay.com/itm/Waterproof-Emergency-STOP-Push-button-Switch-400V-6A-/300736215749 with power
 * Requirements: connections
 
-## A thermistor 
+## A thermistor &#x2713;
 * Requirements( the kind that goes on 3D printer hotends )
 * Done, but maybe thats not the required type 
 * SVG: **components/thermistor.svg**
