@@ -37,6 +37,8 @@ This is a list of parts we still need vector graphics for.
 * Requirements( the kind that goes on 3D printer hotends )
 * **Done, but maybe thats not the required type**
 
+<img src="https://raw.githubusercontent.com/Bouni/smoothieboard-graphics/master/components/thermistor.png" width="50px">
+
 ## A heater cartridge for hotend 
 * Example: http://www.ebay.com/itm/12V-40W-Ceramic-Cartridge-Wire-Heater-For-Arduino-3D-Printer-Prusa-Reprap-/221555510724 with the typical red
 * Requirements: wires
