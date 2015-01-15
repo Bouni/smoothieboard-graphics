@@ -22,9 +22,17 @@ This is a list of parts we still need vector graphics for.
 * Example: www.ebay.com/sch/i.html?_nkw=cw5045 
 * Requirements: with all of the connections. Many chinese external drivers have exactly this interface, so you can name it "Common stepper motor driver" instead of CW5045, on the case.
 
-## Mechanical endstop 
+## Mechanical endstop &#x2713; 
 * Example: www.ebay.com/itm/SET-OF-3-RepRap-Mechanical-Endstop-Microswitches-Switch-3D-Printer-CNC-/191480690037
 * Requirements: with NC/C/NO pins
+* Done
+* SVG: **components/microswitch-1.svg**
+* SVG: **components/microswitch-2.svg**
+
+<img src="https://raw.githubusercontent.com/Bouni/smoothieboard-graphics/master/components/microswitch-1.png" width="100px">
+<img src="https://raw.githubusercontent.com/Bouni/smoothieboard-graphics/master/components/microswitch-2.png" width="100px">
+
+
 
 ## Any optical endstop breakout board 
 * Example: http://www.ebay.com/itm/5pcs-lot-ENDSTOPO-Opto-optical-Endstop-end-stop-Switch-For-Ramps1-4-ENDSTOPO-/111563104129 With +/-/signal
@@ -46,7 +54,7 @@ This is a list of parts we still need vector graphics for.
 * Done, but maybe thats not the required type 
 * SVG: **components/thermistor.svg**
 
-<img src="https://raw.githubusercontent.com/Bouni/smoothieboard-graphics/master/components/thermistor-1.png" width="200px">
+<img src="https://raw.githubusercontent.com/Bouni/smoothieboard-graphics/master/components/thermistor-1.png" width="50px">
 
 ## A heater cartridge for hotend 
 * Example: http://www.ebay.com/itm/12V-40W-Ceramic-Cartridge-Wire-Heater-For-Arduino-3D-Printer-Prusa-Reprap-/221555510724 with the typical red
