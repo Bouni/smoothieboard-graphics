@@ -2,13 +2,21 @@
 
 This is a list of parts we still need vector graphics for.
 
-## AC SSR 
+## AC SSR &#x2713; 
 * Example: http://www.ebay.com/bhp/ssr-25da 
 * Requirements: with input signal connectors and power output connectors
+* Done
+* SVG: **components/SSR-AC.svg**
 
-## DC SSR 
+<img src="https://raw.githubusercontent.com/Bouni/smoothieboard-graphics/master/components/SSR-AC.png" width="50px">
+
+## DC SSR &#x2713; 
 * Example: http://www.ebay.com/sch/i.html?_nkw=ssr-25dd with 
 * Requirements: input signal connectors and power output connectors
+* Done
+* SVG: **components/SSR-DC.svg**
+
+<img src="https://raw.githubusercontent.com/Bouni/smoothieboard-graphics/master/components/SSR-DC.png" width="50px">
 
 ## CW5045 external stepper driver 
 * Example: www.ebay.com/sch/i.html?_nkw=cw5045 
