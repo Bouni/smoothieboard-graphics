@@ -8,7 +8,7 @@ This is a list of parts we still need vector graphics for.
 * Done
 * SVG: **components/SSR-AC.svg**
 
-<img src="https://raw.githubusercontent.com/Bouni/smoothieboard-graphics/master/components/SSR-AC.png" width="50px">
+<img src="https://raw.githubusercontent.com/Bouni/smoothieboard-graphics/master/components/SSR-AC.png" width="200px">
 
 ## DC SSR &#x2713; 
 * Example: http://www.ebay.com/sch/i.html?_nkw=ssr-25dd with 
@@ -16,7 +16,7 @@ This is a list of parts we still need vector graphics for.
 * Done
 * SVG: **components/SSR-DC.svg**
 
-<img src="https://raw.githubusercontent.com/Bouni/smoothieboard-graphics/master/components/SSR-DC.png" width="50px">
+<img src="https://raw.githubusercontent.com/Bouni/smoothieboard-graphics/master/components/SSR-DC.png" width="200px">
 
 ## CW5045 external stepper driver 
 * Example: www.ebay.com/sch/i.html?_nkw=cw5045 
@@ -46,7 +46,7 @@ This is a list of parts we still need vector graphics for.
 * Done, but maybe thats not the required type 
 * SVG: **components/thermistor.svg**
 
-<img src="https://raw.githubusercontent.com/Bouni/smoothieboard-graphics/master/components/thermistor.png" width="50px">
+<img src="https://raw.githubusercontent.com/Bouni/smoothieboard-graphics/master/components/thermistor-1.png" width="200px">
 
 ## A heater cartridge for hotend 
 * Example: http://www.ebay.com/itm/12V-40W-Ceramic-Cartridge-Wire-Heater-For-Arduino-3D-Printer-Prusa-Reprap-/221555510724 with the typical red
