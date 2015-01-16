@@ -29,8 +29,8 @@ This is a list of parts we still need vector graphics for.
 * SVG: **components/microswitch-1.svg**
 * SVG: **components/microswitch-2.svg**
 
-<img src="https://raw.githubusercontent.com/Bouni/smoothieboard-graphics/master/components/microswitch-1.png" width="100px">
-<img src="https://raw.githubusercontent.com/Bouni/smoothieboard-graphics/master/components/microswitch-2.png" width="100px">
+<img src="https://raw.githubusercontent.com/Bouni/smoothieboard-graphics/master/components/microswitch-1.png" width="200px">
+<img src="https://raw.githubusercontent.com/Bouni/smoothieboard-graphics/master/components/microswitch-2.png" width="200px">
 
 
 
