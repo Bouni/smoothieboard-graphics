@@ -23,7 +23,8 @@ This is a list of parts we still need vector graphics for.
 * Requirements: with all of the connections. Many chinese external drivers have exactly this interface, so you can name it "Common stepper motor driver" instead of CW5045, on the case.
 
 ## Mechanical endstop &#x2713; 
-* Example: www.ebay.com/itm/SET-OF-3-RepRap-Mechanical-Endstop-Microswitches-Switch-3D-Printer-CNC-/191480690037
+* Example 1: www.ebay.com/itm/SET-OF-3-RepRap-Mechanical-Endstop-Microswitches-Switch-3D-Printer-CNC-/191480690037
+* Example 2: http://www.omron.com/ecb/products/pdf/en-v.pdf
 * Requirements: with NC/C/NO pins
 * Done
 * SVG: **components/microswitch-1.svg**
