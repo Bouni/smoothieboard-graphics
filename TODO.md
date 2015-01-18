@@ -15,9 +15,7 @@ This is a list of parts we still need vector graphics for.
 ### Any inductive proximity sensor 
 * Example: http://www.ebay.com/itm/New-LJ12A3-4-Z-BX-Inductive-Proximity-Sensor-Switch-NPN-DC6-36V-/221457637744
 
-### A heater cartridge for hotend 
-* Example: http://www.ebay.com/itm/12V-40W-Ceramic-Cartridge-Wire-Heater-For-Arduino-3D-Printer-Prusa-Reprap-/221555510724 with the typical red
-* Requirements: wires
+
 
 ### A heated bed 
 * Example: http://www.ebay.com/itm/RepRap-3D-Printer-PCB-Heatbed-MK2a-heated-heat-bed-For-Prusa-Mendel-/221450514831 with power connections and a
@@ -117,3 +115,10 @@ This is a list of parts we still need vector graphics for.
 
 <img src="https://raw.githubusercontent.com/Bouni/smoothieboard-graphics/master/components/thermistor-1.png" width="50px">
 
+### A heater cartridge for hotend &#x2713;
+* Example: http://www.ebay.com/itm/12V-40W-Ceramic-Cartridge-Wire-Heater-For-Arduino-3D-Printer-Prusa-Reprap-/221555510724 with the typical red
+* Requirements: wires
+* Done
+* SVG: **components/heater-cartridge.svg**
+
+<img src="https://raw.githubusercontent.com/Bouni/smoothieboard-graphics/master/components/heater-cartridge.png" width="200px">
