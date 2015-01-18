@@ -18,9 +18,13 @@ This is a list of parts we still need vector graphics for.
 
 <img src="https://raw.githubusercontent.com/Bouni/smoothieboard-graphics/master/components/SSR-DC.png" width="200px">
 
-## CW5045 external stepper driver 
+## External stepper driver &#x2713;  
 * Example: www.ebay.com/sch/i.html?_nkw=cw5045 
 * Requirements: with all of the connections. Many chinese external drivers have exactly this interface, so you can name it "Common stepper motor driver" instead of CW5045, on the case.
+* Done
+* SVG: **components/stepper-driver.svg**
+
+<img src="https://raw.githubusercontent.com/Bouni/smoothieboard-graphics/master/components/stepper-driver.png" width="300px">
 
 ## Mechanical endstop &#x2713; 
 * Example 1: www.ebay.com/itm/SET-OF-3-RepRap-Mechanical-Endstop-Microswitches-Switch-3D-Printer-CNC-/191480690037
