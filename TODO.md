@@ -50,9 +50,13 @@ This is a list of parts we still need vector graphics for.
 ## Any inductive proximity sensor 
 * Example: http://www.ebay.com/itm/New-LJ12A3-4-Z-BX-Inductive-Proximity-Sensor-Switch-NPN-DC6-36V-/221457637744
 
-## Any big emergency stop button 
+## Any big emergency stop button&#x2713;
 * Example: http://www.ebay.com/itm/Waterproof-Emergency-STOP-Push-button-Switch-400V-6A-/300736215749 with power
 * Requirements: connections
+* Done
+* SVG: **components/semergency-stop.svg**
+
+<img src="https://raw.githubusercontent.com/Bouni/smoothieboard-graphics/master/components/emergency-stop.png" width="200px">
 
 ## A thermistor &#x2713;
 * Requirements( the kind that goes on 3D printer hotends )
