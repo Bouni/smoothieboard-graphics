@@ -117,7 +117,7 @@ This is a list of parts we still need vector graphics for.
 
 <img src="https://raw.githubusercontent.com/Bouni/smoothieboard-graphics/master/components/heater-cartridge.png" width="200px">
 
-### A heated bed 
+### A heated bed &#x2713;
 * Example: http://www.ebay.com/itm/RepRap-3D-Printer-PCB-Heatbed-MK2a-heated-heat-bed-For-Prusa-Mendel-/221450514831 with power connections and a
 * Requirements: thermistor
 * Done
@@ -126,7 +126,7 @@ This is a list of parts we still need vector graphics for.
 <img src="https://raw.githubusercontent.com/Bouni/smoothieboard-graphics/master/components/heated-bed.png" width="200px">
 
 
-###A J-head type hotend
+###A J-head type hotend &#x2713;
 * Requirements: showing the heater cartridge and the thermistor
 * Done
 * SVG: **components/hotend.svg**
