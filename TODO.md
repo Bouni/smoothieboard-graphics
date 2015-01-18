@@ -131,7 +131,7 @@ This is a list of parts we still need vector graphics for.
 
 <img src="https://raw.githubusercontent.com/Bouni/smoothieboard-graphics/master/components/hotend.png" width="100px">
 
-### A door sensor 
+### A door sensor &#x2713;
 * Example: http://www.ebay.com/itm/Magnetic-Sensor-Home-Door-Window-Entry-Warning-Alarm-Switch-Xmas-/321483385103
 * Done
 * SVG: **components/door-switch.svg**
