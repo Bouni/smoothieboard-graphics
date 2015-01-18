@@ -33,8 +33,6 @@ This is a list of parts we still need vector graphics for.
 ### A CO2 laser tube PSU 
 * Example: http://www.ebay.com/itm/60W-CO2-Laser-Power-Supply-for-CO2-Laser-Tube-Engraver-Machine-Professional-/221545310032
 
-### A door sensor 
-* Example: http://www.ebay.com/itm/Magnetic-Sensor-Home-Door-Window-Entry-Warning-Alarm-Switch-Xmas-/321483385103
 
 ### A fan
 
@@ -132,3 +130,10 @@ This is a list of parts we still need vector graphics for.
 * SVG: **components/hotend.svg**
 
 <img src="https://raw.githubusercontent.com/Bouni/smoothieboard-graphics/master/components/hotend.png" width="100px">
+
+### A door sensor 
+* Example: http://www.ebay.com/itm/Magnetic-Sensor-Home-Door-Window-Entry-Warning-Alarm-Switch-Xmas-/321483385103
+* Done
+* SVG: **components/door-switch.svg**
+
+<img src="https://raw.githubusercontent.com/Bouni/smoothieboard-graphics/master/components/door-switch.png" width="200px">
