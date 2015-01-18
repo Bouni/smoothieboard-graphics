@@ -121,4 +121,4 @@ This is a list of parts we still need vector graphics for.
 * Done
 * SVG: **components/heater-cartridge.svg**
 
-<img src="https://raw.githubusercontent.com/Bouni/smoothieboard-graphics/master/components/heater-cartridge.png" width="20px">
+<img src="https://raw.githubusercontent.com/Bouni/smoothieboard-graphics/master/components/heater-cartridge.png" width="200px">
