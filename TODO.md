@@ -17,8 +17,6 @@ This is a list of parts we still need vector graphics for.
 
 
 
-###A J-head type hotend
-* Requirements: showing the heater cartridge and the thermistor
 
 ### A DC spindle motor for CNC 
 * Example: http://www.ebay.com/itm/CNC-400W-Spindle-Motor-ER11-Mach3-PWM-speed-controller-Mount-engraving-set-/271736286321
@@ -126,3 +124,11 @@ This is a list of parts we still need vector graphics for.
 * SVG: **components/heated-bed.svg**
 
 <img src="https://raw.githubusercontent.com/Bouni/smoothieboard-graphics/master/components/heated-bed.png" width="200px">
+
+
+###A J-head type hotend
+* Requirements: showing the heater cartridge and the thermistor
+* Done
+* SVG: **components/hotend.svg**
+
+<img src="https://raw.githubusercontent.com/Bouni/smoothieboard-graphics/master/components/hotend.png" width="100px">
