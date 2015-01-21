@@ -142,7 +142,7 @@ I have problems with the following parts because I cannot find nice pictures tha
 
 <img src="https://raw.githubusercontent.com/Bouni/smoothieboard-graphics/master/components/proximity-sensor.png" width="300px">
 
-### A fan
+### A fan &#x2713;
 * Done
 * SVG: **components/fan.svg**
 
