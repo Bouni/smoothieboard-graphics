@@ -27,8 +27,6 @@ I have problems with the following parts because I cannot find nice pictures tha
 
 ## Still ToDo
 
-### Any inductive proximity sensor 
-* Example: http://www.ebay.com/itm/New-LJ12A3-4-Z-BX-Inductive-Proximity-Sensor-Switch-NPN-DC6-36V-/221457637744
 
 ### A DC spindle motor for CNC 
 * Example: http://www.ebay.com/itm/CNC-400W-Spindle-Motor-ER11-Mach3-PWM-speed-controller-Mount-engraving-set-/271736286321
@@ -138,3 +136,10 @@ I have problems with the following parts because I cannot find nice pictures tha
 * SVG: **components/door-switch.svg**
 
 <img src="https://raw.githubusercontent.com/Bouni/smoothieboard-graphics/master/components/door-switch.png" width="200px">
+
+### Any inductive proximity sensor &#x2713;
+* Example: http://www.ebay.com/itm/New-LJ12A3-4-Z-BX-Inductive-Proximity-Sensor-Switch-NPN-DC6-36V-/221457637744
+* Done
+* SVG: **components/proximity-sensor.svg**
+
+<img src="https://raw.githubusercontent.com/Bouni/smoothieboard-graphics/master/components/proximity-sensor.png" width="100px
