@@ -142,4 +142,4 @@ I have problems with the following parts because I cannot find nice pictures tha
 * Done
 * SVG: **components/proximity-sensor.svg**
 
-<img src="https://raw.githubusercontent.com/Bouni/smoothieboard-graphics/master/components/proximity-sensor.png" width="100px
+<img src="https://raw.githubusercontent.com/Bouni/smoothieboard-graphics/master/components/proximity-sensor.png" width="100px">
