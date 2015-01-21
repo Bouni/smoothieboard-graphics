@@ -2,7 +2,11 @@
 
 This is a list of parts we still need vector graphics for.
 
-## Still ToDo
+## Problematic parts
+
+I have problems with the following parts because I cannot find nice pictures that showing the part from one side (only perspective pictures) and I also need dimensions. The best would be eagle files so that i can export images.
+
+**If anybody owns one of the following parts, please contact me and send me pictures and dimensions: bouni<at>owee<dot>de**
 
 ### Any optical endstop breakout board 
 * Example: http://www.ebay.com/itm/5pcs-lot-ENDSTOPO-Opto-optical-Endstop-end-stop-Switch-For-Ramps1-4-ENDSTOPO-/111563104129 With +/-/signal
@@ -12,11 +16,19 @@ This is a list of parts we still need vector graphics for.
 * Example: http://www.ebay.com/itm/Updated-Version-Hall-effect-Magnetic-detecting-sensor-module-detector-/230955026196 with AO/DO/GND/VCC
 * Requirements: connectors
 
+### A Controller board for a DC spindle 
+* Example: http://www.ebay.com/itm/CNC-400W-Spindle-Motor-ER11-Mach3-PWM-speed-controller-Mount-engraving-set-/271736286321
+
+### A ( small ) laser diode driver and it's laser diode 
+* Example: http://www.ebay.com/itm/New-Laser-Diode-laser-module-Driver-for-100mW-2W-445-450nm-blue-laser-TTL-/330884137537
+
+### A thermocouple breakout board 
+* Example: http://www.ebay.com/itm/MAX31855-Module-K-Type-Thermocouple-Thermocouple-Sensor-for-Arduino-UNO-Mega-/121477657196 * Requirements: exactly this chip, as it is the one supported by Smoothie
+
+## Still ToDo
+
 ### Any inductive proximity sensor 
 * Example: http://www.ebay.com/itm/New-LJ12A3-4-Z-BX-Inductive-Proximity-Sensor-Switch-NPN-DC6-36V-/221457637744
-
-
-
 
 ### A DC spindle motor for CNC 
 * Example: http://www.ebay.com/itm/CNC-400W-Spindle-Motor-ER11-Mach3-PWM-speed-controller-Mount-engraving-set-/271736286321
@@ -24,24 +36,13 @@ This is a list of parts we still need vector graphics for.
 ### A DC spindle motor for CNC with a rotation sensor 
 * Requirements: same as the previous item, but with two more wires for the sensor
 
-### A Controller board for a DC spindle 
-* Example: http://www.ebay.com/itm/CNC-400W-Spindle-Motor-ER11-Mach3-PWM-speed-controller-Mount-engraving-set-/271736286321
-
-### A ( small ) laser diode driver and it's laser diode 
-* Example: http://www.ebay.com/itm/New-Laser-Diode-laser-module-Driver-for-100mW-2W-445-450nm-blue-laser-TTL-/330884137537
-
 ### A CO2 laser tube PSU 
 * Example: http://www.ebay.com/itm/60W-CO2-Laser-Power-Supply-for-CO2-Laser-Tube-Engraver-Machine-Professional-/221545310032
-
 
 ### A fan
 
 ### An illuminated button 
 * Requirements: 4 wires, two for the button, two for the led
-
-### A thermocouple breakout board 
-* Example: http://www.ebay.com/itm/MAX31855-Module-K-Type-Thermocouple-Thermocouple-Sensor-for-Arduino-UNO-Mega-/121477657196 
-* Requirements: exactly this chip, as it is the one supported by Smoothie
 
 ### A thermocouple
 
