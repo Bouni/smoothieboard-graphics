@@ -9,12 +9,12 @@ I have problems with the following parts because I cannot find nice pictures tha
 **If anybody owns one of the following parts, please contact me and send me pictures and dimensions: bouni<at>owee<dot>de**
 
 ### Any optical endstop breakout board 
-* Example: http://www.ebay.com/itm/5pcs-lot-ENDSTOPO-Opto-optical-Endstop-end-stop-Switch-For-Ramps1-4-ENDSTOPO-/111563104129 With +/-/signal
-* Requirements: connections
+* Example: http://www.ebay.com/itm/5pcs-lot-ENDSTOPO-Opto-optical-Endstop-end-stop-Switch-For-Ramps1-4-ENDSTOPO-/111563104129
+* Requirements: With +/-/signal connections
 
 ### Any hall effect sensor sensor breakout board 
-* Example: http://www.ebay.com/itm/Updated-Version-Hall-effect-Magnetic-detecting-sensor-module-detector-/230955026196 with AO/DO/GND/VCC
-* Requirements: connectors
+* Example: http://www.ebay.com/itm/Updated-Version-Hall-effect-Magnetic-detecting-sensor-module-detector-/230955026196 
+* Requirements: with AO/DO/GND/VCC connectors
 
 ### A Controller board for a DC spindle 
 * Example: http://www.ebay.com/itm/CNC-400W-Spindle-Motor-ER11-Mach3-PWM-speed-controller-Mount-engraving-set-/271736286321
