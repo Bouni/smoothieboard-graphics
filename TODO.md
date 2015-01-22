@@ -25,6 +25,8 @@ I have problems with the following parts because I cannot find nice pictures tha
 ### A thermocouple breakout board 
 * Example: http://www.ebay.com/itm/MAX31855-Module-K-Type-Thermocouple-Thermocouple-Sensor-for-Arduino-UNO-Mega-/121477657196 * Requirements: exactly this chip, as it is the one supported by Smoothie
 
+### A ReprapDiscount GLCD panel
+
 ## Still ToDo
 
 
@@ -41,8 +43,6 @@ I have problems with the following parts because I cannot find nice pictures tha
 * Requirements: 4 wires, two for the button, two for the led
 
 ### A thermocouple
-
-### A ReprapDiscount GLCD panel
 
 ### A ReprapDiscount GLCD breakout board 
 * Example: http://smoothieware.org/rrdglcdadapter
