@@ -25,6 +25,8 @@ I have problems with the following parts because I cannot find nice pictures tha
 ### A thermocouple breakout board 
 * Example: http://www.ebay.com/itm/MAX31855-Module-K-Type-Thermocouple-Thermocouple-Sensor-for-Arduino-UNO-Mega-/121477657196 * Requirements: exactly this chip, as it is the one supported by Smoothie
 
+### A ReprapDiscount GLCD panel
+
 ## Still ToDo
 
 
@@ -37,14 +39,10 @@ I have problems with the following parts because I cannot find nice pictures tha
 ### A CO2 laser tube PSU 
 * Example: http://www.ebay.com/itm/60W-CO2-Laser-Power-Supply-for-CO2-Laser-Tube-Engraver-Machine-Professional-/221545310032
 
-### A fan
-
 ### An illuminated button 
 * Requirements: 4 wires, two for the button, two for the led
 
 ### A thermocouple
-
-### A ReprapDiscount GLCD panel
 
 ### A ReprapDiscount GLCD breakout board 
 * Example: http://smoothieware.org/rrdglcdadapter
@@ -143,3 +141,9 @@ I have problems with the following parts because I cannot find nice pictures tha
 * SVG: **components/proximity-sensor.svg**
 
 <img src="https://raw.githubusercontent.com/Bouni/smoothieboard-graphics/master/components/proximity-sensor.png" width="300px">
+
+### A fan &#x2713;
+* Done
+* SVG: **components/fan.svg**
+
+<img src="https://raw.githubusercontent.com/Bouni/smoothieboard-graphics/master/components/fan.png" width="200px">
