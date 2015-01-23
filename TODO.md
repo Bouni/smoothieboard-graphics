@@ -44,8 +44,6 @@ I have problems with the following parts because I cannot find nice pictures tha
 
 ### A thermocouple
 
-### A ReprapDiscount GLCD breakout board 
-* Example: http://smoothieware.org/rrdglcdadapter
 
 ### A small servo motor
 * Requirements: I think that's already in Fritzing
@@ -147,3 +145,11 @@ I have problems with the following parts because I cannot find nice pictures tha
 * SVG: **components/fan.svg**
 
 <img src="https://raw.githubusercontent.com/Bouni/smoothieboard-graphics/master/components/fan.png" width="200px">
+
+
+### A ReprapDiscount GLCD breakout board &#x2713;
+* Example: http://smoothieware.org/rrdglcdadapter
+* Done
+* SVG: **components/GLCDAdapter2.svg**
+
+<img src="https://raw.githubusercontent.com/Bouni/smoothieboard-graphics/master/components/GLCDAdapter2.png" width="300px">
