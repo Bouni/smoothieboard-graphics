@@ -52,34 +52,25 @@ I have problems with the following parts because I cannot find nice pictures tha
 ## Done
 
 ### AC SSR &#x2713; 
-* Example: http://www.ebay.com/bhp/ssr-25da 
-* Requirements: with input signal connectors and power output connectors
-* Done
+* **Dimensions in mm &#x2713;**
 * SVG: **components/SSR-AC.svg**
 
 <img src="https://raw.githubusercontent.com/Bouni/smoothieboard-graphics/master/components/SSR-AC.png" width="200px">
 
 ### DC SSR &#x2713; 
-* Example: http://www.ebay.com/sch/i.html?_nkw=ssr-25dd with 
-* Requirements: input signal connectors and power output connectors
-* Done
+* **Dimensions in mm &#x2713;**
 * SVG: **components/SSR-DC.svg**
 
 <img src="https://raw.githubusercontent.com/Bouni/smoothieboard-graphics/master/components/SSR-DC.png" width="200px">
 
 ### External stepper driver &#x2713;  
-* Example: www.ebay.com/sch/i.html?_nkw=cw5045 
-* Requirements: with all of the connections. Many chinese external drivers have exactly this interface, so you can name it "Common stepper motor driver" instead of CW5045, on the case.
-* Done
+* **Dimensions in mm &#x2713;**
 * SVG: **components/stepper-driver.svg**
 
 <img src="https://raw.githubusercontent.com/Bouni/smoothieboard-graphics/master/components/stepper-driver.png" width="300px">
 
 ### Mechanical endstop &#x2713; 
-* Example 1: www.ebay.com/itm/SET-OF-3-RepRap-Mechanical-Endstop-Microswitches-Switch-3D-Printer-CNC-/191480690037
-* Example 2: http://www.omron.com/ecb/products/pdf/en-v.pdf
-* Requirements: with NC/C/NO pins
-* Done
+* **Dimensions in mm &#x2713;**
 * SVG: **components/microswitch-1.svg**
 * SVG: **components/microswitch-2.svg**
 
