@@ -9,15 +9,15 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="384.75491"
-   height="284.37723"
+   width="163.70822"
+   height="120.6167"
    id="svg10927"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.48.4 r9939"
    sodipodi:docname="microswitch-1.svg"
-   inkscape:export-filename="/home/bouni/projects/smoothieboard-graphics/components/microswitch-1.png"
-   inkscape:export-xdpi="200"
-   inkscape:export-ydpi="200">
+   inkscape:export-filename="microswitch-1.png"
+   inkscape:export-xdpi="599.91687"
+   inkscape:export-ydpi="599.91687">
   <defs
      id="defs10929" />
   <sodipodi:namedview
@@ -28,9 +28,9 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
-     inkscape:cx="15.26049"
-     inkscape:cy="61.560201"
-     inkscape:document-units="px"
+     inkscape:cx="162.28669"
+     inkscape:cy="118.08251"
+     inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:snap-bbox="true"
@@ -43,15 +43,18 @@
      inkscape:snap-bbox-edge-midpoints="true"
      inkscape:snap-bbox-midpoints="true"
      inkscape:snap-global="true"
-     fit-margin-top="25"
-     fit-margin-left="25"
-     fit-margin-right="25"
-     fit-margin-bottom="25"
-     inkscape:window-width="1600"
-     inkscape:window-height="841"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1" />
+     fit-margin-top="10"
+     fit-margin-left="10"
+     fit-margin-right="10"
+     fit-margin-bottom="10"
+     inkscape:window-width="1680"
+     inkscape:window-height="1028"
+     inkscape:window-x="1272"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true">
+  </sodipodi:namedview>
   <metadata
      id="metadata10932">
     <rdf:RDF>
@@ -68,9 +71,10 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-131.80756,-259.23068)">
+     transform="translate(-147.7899,-274.5803)">
     <g
-       id="g3844">
+       id="g3844"
+       transform="matrix(0.42929383,0,0,0.42929383,90.473385,162.56182)">
       <rect
          ry="10.82476"
          rx="10.82476"
