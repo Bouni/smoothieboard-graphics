@@ -153,3 +153,9 @@ I have problems with the following parts because I cannot find nice pictures tha
 * SVG: **components/GLCDAdapter2.svg**
 
 <img src="https://raw.githubusercontent.com/Bouni/smoothieboard-graphics/master/components/GLCDAdapter2.png" width="300px">
+
+### A power supply &#x2713;
+* **Dimensions in mm &#x2713;**
+* SVG: **components/power-supply.svg**
+
+<img src="https://raw.githubusercontent.com/Bouni/smoothieboard-graphics/master/components/power-supply.png" width="200px">
