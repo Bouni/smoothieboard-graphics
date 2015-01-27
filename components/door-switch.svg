@@ -9,15 +9,15 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="187.94197"
-   height="357.65625"
+   width="239.11775"
+   height="277.62598"
    id="svg2"
    version="1.1"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="door switch.svg"
+   sodipodi:docname="door-switch.svg"
    inkscape:export-filename="/home/bouni/projects/smoothieboard-graphics/components/door-switch.png"
-   inkscape:export-xdpi="200"
-   inkscape:export-ydpi="200">
+   inkscape:export-xdpi="600"
+   inkscape:export-ydpi="600">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -27,10 +27,10 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="134.24625"
-     inkscape:cy="161.44901"
-     inkscape:document-units="px"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="25.69955"
+     inkscape:cy="148.66639"
+     inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:snap-center="true"
@@ -39,28 +39,15 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:snap-bbox-edge-midpoints="true"
-     fit-margin-top="25"
-     fit-margin-left="25"
-     fit-margin-right="25"
-     fit-margin-bottom="25"
+     fit-margin-top="10"
+     fit-margin-left="10"
+     fit-margin-right="10"
+     fit-margin-bottom="10"
      inkscape:window-width="1600"
      inkscape:window-height="841"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="1">
-    <sodipodi:guide
-       orientation="0,1"
-       position="91.22768,308.36675"
-       id="guide3791" />
-    <sodipodi:guide
-       orientation="0,1"
-       position="91.22768,49.283027"
-       id="guide3811" />
-    <sodipodi:guide
-       orientation="1,0"
-       position="58.12053,332.66374"
-       id="guide3813" />
-  </sodipodi:namedview>
+     inkscape:window-maximized="1" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -77,9 +64,85 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-97.59375,-45.65625)">
+     transform="translate(-112.59375,-110.68653)">
     <g
-       id="g3877">
+       id="g3891">
+      <g
+         id="g3886">
+        <path
+           style="fill:none;stroke:#b08200;stroke-width:1.77165353;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m 310.26215,133.65262 -2.03257,-10.67467"
+           id="path3859"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;stroke:#b08200;stroke-width:1.77165353;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m 338.79311,133.88834 2.03257,-10.67467"
+           id="path3859-1"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;stroke:#b08200;stroke-width:1.77165353;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m 323.67445,132.43607 -0.24416,-10.86371"
+           id="path3859-4"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         id="g3852">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:3.54330707;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m 324.55803,161.97322 -0.89285,-30.71429"
+           id="path3792"
+           inkscape:connector-curvature="0" />
+        <g
+           id="g3848"
+           transform="translate(-0.2232143,-0.08928572)">
+          <path
+             sodipodi:nodetypes="csc"
+             inkscape:connector-curvature="0"
+             id="path3792-3-3"
+             d="m 321.28258,162.15179 c 0.13104,-5.67964 -1.45952,-11.27064 -4.69828,-16.11722 -3.54924,-5.31118 -5.18376,-7.82763 -6.28834,-13.20811"
+             style="fill:none;stroke:#898989;stroke-width:3.54330707;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+          <path
+             sodipodi:nodetypes="csc"
+             inkscape:connector-curvature="0"
+             id="path3792-3"
+             d="m 321.28258,162.15179 c 0.13104,-5.67964 -1.45952,-11.27064 -4.69828,-16.11722 -3.54924,-5.31118 -5.18376,-7.82763 -6.28834,-13.20811"
+             style="fill:none;stroke:#ffffff;stroke-width:2.83464575;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+        </g>
+        <path
+           style="fill:none;stroke:#a30000;stroke-width:3.54330707;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m 328.0299,161.92587 c -0.13104,-5.67964 1.45952,-11.27064 4.69828,-16.11722 3.54924,-5.31118 5.18376,-7.82763 6.28834,-13.20811"
+           id="path3792-3-7"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="csc" />
+      </g>
+    </g>
+    <g
+       id="g3786">
+      <g
+         id="g3780">
+        <path
+           style="fill:none;stroke:#949494;stroke-width:12.04724407;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m 219.17481,266.1887 c 82.07864,0.65006 107.02811,-31.59512 105.4112,-107.83379"
+           id="path2992-4"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc" />
+        <path
+           style="fill:none;stroke:#ffffff;stroke-width:10.62992096;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m 219.17481,266.1887 c 82.07864,0.65006 107.02811,-31.59512 105.4112,-107.83379"
+           id="path2992"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc" />
+      </g>
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path3784"
+         d="m 318.83625,158.87095 11.40224,-0.20731"
+         style="fill:none;stroke:#949494;stroke-width:0.80956858px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <g
+       id="g3877"
+       transform="matrix(0.72557715,0,0,0.72557715,33.642526,103.81759)">
       <g
          id="g3849">
         <path
@@ -116,5 +179,17 @@
            ry="0" />
       </g>
     </g>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#545454;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-335.70285"
+       y="218.90283"
+       id="text3903"
+       sodipodi:linespacing="125%"
+       transform="matrix(0,-1,1,0,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan3905"
+         x="-335.70285"
+         y="218.90283">red=NC black=NO white=C</tspan></text>
   </g>
 </svg>
