@@ -27,27 +27,18 @@ I have problems with the following parts because I cannot find nice pictures tha
 
 ### A ReprapDiscount GLCD panel
 
-## Still ToDo
-
-
 ### A DC spindle motor for CNC 
 * Example: http://www.ebay.com/itm/CNC-400W-Spindle-Motor-ER11-Mach3-PWM-speed-controller-Mount-engraving-set-/271736286321
 
 ### A DC spindle motor for CNC with a rotation sensor 
 * Requirements: same as the previous item, but with two more wires for the sensor
 
-### A CO2 laser tube PSU 
-* Example: http://www.ebay.com/itm/60W-CO2-Laser-Power-Supply-for-CO2-Laser-Tube-Engraver-Machine-Professional-/221545310032
+## Still ToDo
 
 ### An illuminated button 
 * Requirements: 4 wires, two for the button, two for the led
 
 ### A thermocouple
-
-
-### A small servo motor
-* Requirements: I think that's already in Fritzing
-
 
 ## Done
 
@@ -100,9 +91,7 @@ I have problems with the following parts because I cannot find nice pictures tha
 <img src="https://raw.githubusercontent.com/Bouni/smoothieboard-graphics/master/components/heater-cartridge.png" width="200px">
 
 ### A heated bed &#x2713;
-* Example: http://www.ebay.com/itm/RepRap-3D-Printer-PCB-Heatbed-MK2a-heated-heat-bed-For-Prusa-Mendel-/221450514831 with power connections and a
-* Requirements: thermistor
-* Done
+* **Dimensions in mm &#x2713;**
 * SVG: **components/heated-bed.svg**
 
 <img src="https://raw.githubusercontent.com/Bouni/smoothieboard-graphics/master/components/heated-bed.png" width="200px">
