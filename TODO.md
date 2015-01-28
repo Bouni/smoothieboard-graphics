@@ -98,8 +98,7 @@ I have problems with the following parts because I cannot find nice pictures tha
 
 
 ###A J-head type hotend &#x2713;
-* Requirements: showing the heater cartridge and the thermistor
-* Done
+* **Dimensions in mm &#x2713;**
 * SVG: **components/hotend.svg**
 
 <img src="https://raw.githubusercontent.com/Bouni/smoothieboard-graphics/master/components/hotend.png" width="100px">
@@ -111,14 +110,13 @@ I have problems with the following parts because I cannot find nice pictures tha
 <img src="https://raw.githubusercontent.com/Bouni/smoothieboard-graphics/master/components/door-switch.png" width="200px">
 
 ### Any inductive proximity sensor &#x2713;
-* Example: http://www.ebay.com/itm/New-LJ12A3-4-Z-BX-Inductive-Proximity-Sensor-Switch-NPN-DC6-36V-/221457637744
-* Done
+* **Dimensions in mm &#x2713;**
 * SVG: **components/proximity-sensor.svg**
 
 <img src="https://raw.githubusercontent.com/Bouni/smoothieboard-graphics/master/components/proximity-sensor.png" width="300px">
 
 ### A fan &#x2713;
-* Done
+* **Dimensions in mm &#x2713;**
 * SVG: **components/fan.svg**
 
 <img src="https://raw.githubusercontent.com/Bouni/smoothieboard-graphics/master/components/fan.png" width="200px">
