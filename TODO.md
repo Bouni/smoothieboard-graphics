@@ -6,7 +6,7 @@ This is a list of parts we still need vector graphics for.
 
 I have problems with the following parts because I cannot find nice pictures that showing the part from one side (only perspective pictures) and I also need dimensions. The best would be eagle files so that i can export images.
 
-**If anybody owns one of the following parts, please contact me and send me pictures and dimensions: bouni<at>owee<dot>de**
+**If anybody owns one of the following parts, please contact me and send me pictures and dimensions: bouni|at|owee|dot|de**
 
 *  Any optical endstop breakout board 
   * Example: http://www.ebay.com/itm/5pcs-lot-ENDSTOPO-Opto-optical-Endstop-end-stop-Switch-For-Ramps1-4-ENDSTOPO-/111563104129
