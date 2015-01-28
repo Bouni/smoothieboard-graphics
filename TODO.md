@@ -79,10 +79,8 @@ I have problems with the following parts because I cannot find nice pictures tha
 
 
 ### Any big emergency stop button&#x2713;
-* Example: http://www.ebay.com/itm/Waterproof-Emergency-STOP-Push-button-Switch-400V-6A-/300736215749 with power
-* Requirements: connections
-* Done
-* SVG: **components/semergency-stop.svg**
+* **Dimensions in mm &#x2713;**
+* SVG: **components/emergency-stop.svg**
 
 <img src="https://raw.githubusercontent.com/Bouni/smoothieboard-graphics/master/components/emergency-stop.png" width="200px">
 
@@ -118,8 +116,7 @@ I have problems with the following parts because I cannot find nice pictures tha
 <img src="https://raw.githubusercontent.com/Bouni/smoothieboard-graphics/master/components/hotend.png" width="100px">
 
 ### A door sensor &#x2713;
-* Example: http://www.ebay.com/itm/Magnetic-Sensor-Home-Door-Window-Entry-Warning-Alarm-Switch-Xmas-/321483385103
-* Done
+* **Dimensions in mm &#x2713;**
 * SVG: **components/door-switch.svg**
 
 <img src="https://raw.githubusercontent.com/Bouni/smoothieboard-graphics/master/components/door-switch.png" width="200px">
@@ -139,8 +136,7 @@ I have problems with the following parts because I cannot find nice pictures tha
 
 
 ### A ReprapDiscount GLCD breakout board &#x2713;
-* Example: http://smoothieware.org/rrdglcdadapter
-* Done
+* **Dimensions in mm &#x2713;**
 * SVG: **components/GLCDAdapter2.svg**
 
 <img src="https://raw.githubusercontent.com/Bouni/smoothieboard-graphics/master/components/GLCDAdapter2.png" width="300px">
