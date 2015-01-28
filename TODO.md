@@ -12,10 +12,6 @@ I have problems with the following parts because I cannot find nice pictures tha
   * Example: http://www.ebay.com/itm/5pcs-lot-ENDSTOPO-Opto-optical-Endstop-end-stop-Switch-For-Ramps1-4-ENDSTOPO-/111563104129
   * Requirements: With +/-/signal connections
 
-*  Any hall effect sensor sensor breakout board 
-  * Example: http://www.ebay.com/itm/Updated-Version-Hall-effect-Magnetic-detecting-sensor-module-detector-/230955026196 
-  * Requirements: with AO/DO/GND/VCC connectors
-
 *  A Controller board for a DC spindle 
   * Example: http://www.ebay.com/itm/CNC-400W-Spindle-Motor-ER11-Mach3-PWM-speed-controller-Mount-engraving-set-/271736286321
 
@@ -133,3 +129,9 @@ I have problems with the following parts because I cannot find nice pictures tha
   * SVG: **components/power-supply.svg**
 
 <img src="https://raw.githubusercontent.com/Bouni/smoothieboard-graphics/master/components/power-supply.png" width="200px">
+
+* Any hall effect sensor sensor breakout board 
+  * **Dimensions in mm &#x2713;**
+  * SVG: **components/hall-effect-sensor-board.svg**
+
+<img src="https://raw.githubusercontent.com/Bouni/smoothieboard-graphics/master/components/hall-effect-sensor-board.png" width="300px">
