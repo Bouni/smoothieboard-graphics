@@ -91,9 +91,7 @@ I have problems with the following parts because I cannot find nice pictures tha
 <img src="https://raw.githubusercontent.com/Bouni/smoothieboard-graphics/master/components/heater-cartridge.png" width="200px">
 
 ### A heated bed &#x2713;
-* Example: http://www.ebay.com/itm/RepRap-3D-Printer-PCB-Heatbed-MK2a-heated-heat-bed-For-Prusa-Mendel-/221450514831 with power connections and a
-* Requirements: thermistor
-* Done
+* **Dimensions in mm &#x2713;**
 * SVG: **components/heated-bed.svg**
 
 <img src="https://raw.githubusercontent.com/Bouni/smoothieboard-graphics/master/components/heated-bed.png" width="200px">
