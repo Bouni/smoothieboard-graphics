@@ -12,9 +12,6 @@ I have problems with the following parts because I cannot find nice pictures tha
   * Example: http://www.ebay.com/itm/5pcs-lot-ENDSTOPO-Opto-optical-Endstop-end-stop-Switch-For-Ramps1-4-ENDSTOPO-/111563104129
   * Requirements: With +/-/signal connections
 
-*  A Controller board for a DC spindle 
-  * Example: http://www.ebay.com/itm/CNC-400W-Spindle-Motor-ER11-Mach3-PWM-speed-controller-Mount-engraving-set-/271736286321
-
 *  A thermocouple breakout board 
   * Example: http://www.ebay.com/itm/MAX31855-Module-K-Type-Thermocouple-Thermocouple-Sensor-for-Arduino-UNO-Mega-/121477657196 * Requirements: exactly this chip, as it is the one supported by Smoothie
 
@@ -135,3 +132,9 @@ I have problems with the following parts because I cannot find nice pictures tha
   * SVG: **components/laser-diode-driver-board.svg**
 
 <img src="https://raw.githubusercontent.com/Bouni/smoothieboard-graphics/master/components/laser-diode-driver-board.png" width="300px">
+
+* A Controller board for a DC spindle 
+  * **Dimensions in mm &#x2713;**
+  * SVG: **components/spindle-speed-controller.svg**
+
+<img src="https://raw.githubusercontent.com/Bouni/smoothieboard-graphics/master/components/spindle-speed-controller.png" width="300px">
