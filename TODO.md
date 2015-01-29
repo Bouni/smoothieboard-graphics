@@ -69,16 +69,15 @@ I have problems with the following parts because I cannot find nice pictures tha
 <img src="https://raw.githubusercontent.com/Bouni/smoothieboard-graphics/master/components/emergency-stop.png" width="200px">
 
 *  A thermistor &#x2713;
-  * Requirements( the kind that goes on 3D printer hotends )
-  * Done, but maybe thats not the required type 
-  * SVG: **components/thermistor.svg**
+  * **Dimensions in mm &#x2713;**  
+  * SVG: **components/thermistor-1.svg**
+  * SVG: **components/thermistor-1.svg**
 
 <img src="https://raw.githubusercontent.com/Bouni/smoothieboard-graphics/master/components/thermistor-1.png" width="50px">
+<img src="https://raw.githubusercontent.com/Bouni/smoothieboard-graphics/master/components/thermistor-2.png" width="50px">
 
 *  A heater cartridge for hotend &#x2713;
-  * Example: http://www.ebay.com/itm/12V-40W-Ceramic-Cartridge-Wire-Heater-For-Arduino-3D-Printer-Prusa-Reprap-/221555510724 with the typical red
-  * Requirements: wires
-  * Done
+  * **Dimensions in mm &#x2713;**
   * SVG: **components/heater-cartridge.svg**
 
 <img src="https://raw.githubusercontent.com/Bouni/smoothieboard-graphics/master/components/heater-cartridge.png" width="200px">
@@ -88,7 +87,6 @@ I have problems with the following parts because I cannot find nice pictures tha
   * SVG: **components/heated-bed.svg**
 
 <img src="https://raw.githubusercontent.com/Bouni/smoothieboard-graphics/master/components/heated-bed.png" width="200px">
-
 
 * A J-head type hotend &#x2713;
   * **Dimensions in mm &#x2713;**
@@ -113,7 +111,6 @@ I have problems with the following parts because I cannot find nice pictures tha
   * SVG: **components/fan.svg**
 
 <img src="https://raw.githubusercontent.com/Bouni/smoothieboard-graphics/master/components/fan.png" width="200px">
-
 
 *  A ReprapDiscount GLCD breakout board &#x2713;
   * **Dimensions in mm &#x2713;**
