@@ -15,9 +15,6 @@ I have problems with the following parts because I cannot find nice pictures tha
 *  A Controller board for a DC spindle 
   * Example: http://www.ebay.com/itm/CNC-400W-Spindle-Motor-ER11-Mach3-PWM-speed-controller-Mount-engraving-set-/271736286321
 
-*  A ( small ) laser diode driver and it's laser diode 
-  * Example: http://www.ebay.com/itm/New-Laser-Diode-laser-module-Driver-for-100mW-2W-445-450nm-blue-laser-TTL-/330884137537
-
 *  A thermocouple breakout board 
   * Example: http://www.ebay.com/itm/MAX31855-Module-K-Type-Thermocouple-Thermocouple-Sensor-for-Arduino-UNO-Mega-/121477657196 * Requirements: exactly this chip, as it is the one supported by Smoothie
 
@@ -135,3 +132,9 @@ I have problems with the following parts because I cannot find nice pictures tha
   * SVG: **components/hall-effect-sensor-board.svg**
 
 <img src="https://raw.githubusercontent.com/Bouni/smoothieboard-graphics/master/components/hall-effect-sensor-board.png" width="300px">
+
+*  A ( small ) laser diode driver and it's laser diode 
+  * **Dimensions in mm &#x2713;**
+  * SVG: **components/laser-diode-driver-board.svg**
+
+<img src="https://raw.githubusercontent.com/Bouni/smoothieboard-graphics/master/components/laser-diode-driver-board.png" width="300px">
