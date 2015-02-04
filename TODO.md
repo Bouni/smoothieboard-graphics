@@ -2,18 +2,11 @@
 
 This is a list of parts we still need vector graphics for.
 
-## Problematic parts
-
-I have problems with the following parts because I cannot find nice pictures that showing the part from one side (only perspective pictures) and I also need dimensions. The best would be eagle files so that i can export images.
-
-**If anybody owns one of the following parts, please contact me and send me pictures and dimensions: bouni|at|owee|dot|de**
+## Still ToDo
 
 *  Any optical endstop breakout board 
   * Example: http://www.ebay.com/itm/5pcs-lot-ENDSTOPO-Opto-optical-Endstop-end-stop-Switch-For-Ramps1-4-ENDSTOPO-/111563104129
   * Requirements: With +/-/signal connections
-
-*  A thermocouple breakout board 
-  * Example: http://www.ebay.com/itm/MAX31855-Module-K-Type-Thermocouple-Thermocouple-Sensor-for-Arduino-UNO-Mega-/121477657196 * Requirements: exactly this chip, as it is the one supported by Smoothie
 
 *  A ReprapDiscount GLCD panel
 
@@ -23,12 +16,10 @@ I have problems with the following parts because I cannot find nice pictures tha
 *  A DC spindle motor for CNC with a rotation sensor 
   * Requirements: same as the previous item, but with two more wires for the sensor
 
-## Still ToDo
+
 
 *  An illuminated button 
   * Requirements: 4 wires, two for the button, two for the led
-
-*  A thermocouple
 
 ## Done
 
@@ -121,20 +112,26 @@ I have problems with the following parts because I cannot find nice pictures tha
 
 <img src="https://raw.githubusercontent.com/Bouni/smoothieboard-graphics/master/components/power-supply.png" width="200px">
 
-* Any hall effect sensor sensor breakout board 
+* Any hall effect sensor sensor breakout board &#x2713;
   * **Dimensions in mm &#x2713;**
   * SVG: **components/hall-effect-sensor-board.svg**
 
 <img src="https://raw.githubusercontent.com/Bouni/smoothieboard-graphics/master/components/hall-effect-sensor-board.png" width="300px">
 
-*  A ( small ) laser diode driver and it's laser diode 
+*  A ( small ) laser diode driver and it's laser diode &#x2713;
   * **Dimensions in mm &#x2713;**
   * SVG: **components/laser-diode-driver-board.svg**
 
 <img src="https://raw.githubusercontent.com/Bouni/smoothieboard-graphics/master/components/laser-diode-driver-board.png" width="300px">
 
-* A Controller board for a DC spindle 
+* A Controller board for a DC spindle &#x2713;
   * **Dimensions in mm &#x2713;**
   * SVG: **components/spindle-speed-controller.svg**
 
 <img src="https://raw.githubusercontent.com/Bouni/smoothieboard-graphics/master/components/spindle-speed-controller.png" width="300px">
+
+*  A thermocouple breakout board &#x2713;
+  * **Dimensions in mm &#x2713;**
+  * SVG: **components/thermocouple.svg**
+ 
+<img src="https://raw.githubusercontent.com/Bouni/smoothieboard-graphics/master/components/thermocouple.png" width="300px">
