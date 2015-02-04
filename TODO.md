@@ -4,10 +4,6 @@ This is a list of parts we still need vector graphics for.
 
 ## Still ToDo
 
-*  Any optical endstop breakout board 
-  * Example: http://www.ebay.com/itm/5pcs-lot-ENDSTOPO-Opto-optical-Endstop-end-stop-Switch-For-Ramps1-4-ENDSTOPO-/111563104129
-  * Requirements: With +/-/signal connections
-
 *  A ReprapDiscount GLCD panel
 
 *  A DC spindle motor for CNC 
@@ -135,3 +131,9 @@ This is a list of parts we still need vector graphics for.
   * SVG: **components/thermocouple.svg**
  
 <img src="https://raw.githubusercontent.com/Bouni/smoothieboard-graphics/master/components/thermocouple.png" width="300px">
+
+*  Any optical endstop breakout board &#x2713;
+  * **Dimensions in mm &#x2713;**
+  * SVG: **components/opto-endstop.svg**
+
+<img src="https://raw.githubusercontent.com/Bouni/smoothieboard-graphics/master/components/opto-endstop.png" width="300px">
