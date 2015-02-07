@@ -1,21 +1,14 @@
 # ToDo
 
-This is a list of parts we still need vector graphics for.
+This is a list of parts we still need vector graphics for and a list of whats already done.
 
 ## Still ToDo
-
-*  A ReprapDiscount GLCD panel
 
 *  A DC spindle motor for CNC 
   * Example: http://www.ebay.com/itm/CNC-400W-Spindle-Motor-ER11-Mach3-PWM-speed-controller-Mount-engraving-set-/271736286321
 
 *  A DC spindle motor for CNC with a rotation sensor 
   * Requirements: same as the previous item, but with two more wires for the sensor
-
-
-
-*  An illuminated button 
-  * Requirements: 4 wires, two for the button, two for the led
 
 ## Done
 
@@ -137,3 +130,9 @@ This is a list of parts we still need vector graphics for.
   * SVG: **components/opto-endstop.svg**
 
 <img src="https://raw.githubusercontent.com/Bouni/smoothieboard-graphics/master/components/opto-endstop.png" width="300px">
+
+*  A ReprapDiscount GLCD panel &#x2713;
+  * **Dimensions in mm &#x2713;**
+  * SVG: **components/reprap_discount_glcd.svg**
+
+<img src="https://raw.githubusercontent.com/Bouni/smoothieboard-graphics/master/components/reprap_discount_glcd.png" width="300px">
