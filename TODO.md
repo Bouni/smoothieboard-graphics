@@ -1,6 +1,6 @@
 # ToDo
 
-This is a list of parts we still need vector graphics for.
+This is a list of parts we still need vector graphics for and a list of whats already done.
 
 ## Still ToDo
 
