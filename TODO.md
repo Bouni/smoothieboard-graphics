@@ -6,7 +6,6 @@ This is a list of parts we still need vector graphics for.
 
 *  A DC spindle motor for CNC 
   * Example: http://www.ebay.com/itm/CNC-400W-Spindle-Motor-ER11-Mach3-PWM-speed-controller-Mount-engraving-set-/271736286321
-*  A ReprapDiscount GLCD panel
 
 *  A DC spindle motor for CNC with a rotation sensor 
   * Requirements: same as the previous item, but with two more wires for the sensor
