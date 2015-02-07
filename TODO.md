@@ -2,14 +2,6 @@
 
 This is a list of parts we still need vector graphics for and a list of whats already done.
 
-## Still ToDo
-
-*  A DC spindle motor for CNC 
-  * Example: http://www.ebay.com/itm/CNC-400W-Spindle-Motor-ER11-Mach3-PWM-speed-controller-Mount-engraving-set-/271736286321
-
-*  A DC spindle motor for CNC with a rotation sensor 
-  * Requirements: same as the previous item, but with two more wires for the sensor
-
 ## Done
 
 *  AC SSR &#x2713; 
@@ -136,3 +128,16 @@ This is a list of parts we still need vector graphics for and a list of whats al
   * SVG: **components/reprap_discount_glcd.svg**
 
 <img src="https://raw.githubusercontent.com/Bouni/smoothieboard-graphics/master/components/reprap_discount_glcd.png" width="300px">
+
+
+*  A DC spindle motor for CNC &#x2713;
+  * **Dimensions in mm &#x2713;**
+  * SVG: **components/dc-spindle-motor.svg**
+
+<img src="https://raw.githubusercontent.com/Bouni/smoothieboard-graphics/master/components/dc-spindle-motor.png" width="300px">
+
+*  A DC spindle motor for CNC with a rotation sensor &#x2713;
+* **Dimensions in mm &#x2713;**
+  * SVG: **components/dc-spindle-motor-sensor.svg**
+
+<img src="https://raw.githubusercontent.com/Bouni/smoothieboard-graphics/master/components/dc-spindle-motor-sensor.png" width="300px">
