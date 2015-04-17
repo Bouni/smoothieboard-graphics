@@ -91,9 +91,9 @@
      id="namedview4"
      showgrid="false"
      inkscape:snap-page="true"
-     inkscape:zoom="2"
-     inkscape:cx="344.42702"
-     inkscape:cy="263.90532"
+     inkscape:zoom="1"
+     inkscape:cx="417.82402"
+     inkscape:cy="387.89587"
      inkscape:window-x="1272"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -443,6 +443,10 @@
        position="366.28696,714.91548"
        orientation="0,1"
        id="guide9125" />
+    <sodipodi:guide
+       position="704.63191,710.64232"
+       orientation="1,0"
+       id="guide6243" />
   </sodipodi:namedview>
   <g
      inkscape:groupmode="layer"
@@ -10323,7 +10327,7 @@
            height="19.75"
            x="423.5"
            y="634.39307" /></flowRegion><flowPara
-         id="flowPara6204"></flowPara></flowRoot>    <path
+         id="flowPara6204" /></flowRoot>    <path
        style="display:inline;fill:none;fill-rule:evenodd;stroke:#aa009d;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 911.7622,505.43873 0,28.38532"
        id="path5730-5-0-4-1-8"
@@ -12454,13 +12458,13 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <path
-       style="display:inline;fill:none;fill-rule:evenodd;stroke:#d5ce00;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#0caf00;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 811.45767,-0.0431949 0,-28.3853201"
        id="path5730-93-9-4"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <path
-       style="display:inline;fill:none;fill-rule:evenodd;stroke:#d5ce00;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#0caf00;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 820.4746,-0.043195 0,-28.38532"
        id="path5730-93-9-1"
        inkscape:connector-curvature="0"
@@ -12505,7 +12509,7 @@
          y="823.07709"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.5px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu">POT8</tspan></text>
     <path
-       style="display:inline;fill:none;fill-rule:evenodd;stroke:#d5ce00;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#0caf00;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 802.43096,-0.043115 0,-28.38532"
        id="path5730-93-9"
        inkscape:connector-curvature="0"
@@ -12538,7 +12542,7 @@
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
        id="path5730-56-0-4-3-1-5"
-       d="m 913.7622,-15.804334 28.38531,0"
+       d="m 913.70598,-15.446513 28.38531,0"
        style="display:inline;fill:none;fill-rule:evenodd;stroke:#0caf00;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
        sodipodi:nodetypes="cc"
@@ -12611,5 +12615,107 @@
          x="946.37939"
          id="tspan5835-5-2-6-5-9-5-1-9"
          sodipodi:role="line">3.3V</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10px;line-height:125%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1049.2906"
+       y="-38.963501"
+       id="text6239"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6241"
+         x="1049.2906"
+         y="-38.963501"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu">Legend</tspan></text>
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path5730-4-4-0-7-4-2-8-1"
+       d="m 1042.0699,-25.528473 28.3854,0"
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#0caf00;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path5730-70-3-6-6"
+       d="m 1042.0699,-16.027581 28.3854,0"
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#cecece;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#aa009d;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 1042.0699,1.031933 28.3853,0"
+       id="path5730-5-0-4-1-8-8-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#0009a8;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 1042.0699,9.425733 28.3853,0"
+       id="path5730-4-6-9-9-8-1-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path5730-5-05-42-7-9"
+       d="m 1070.4552,-7.622881 -28.3853,0"
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#aa0000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text5833-7-00-98-9-2-1-0-9"
+       y="-23.285973"
+       x="1076.7434"
+       style="font-style:normal;font-weight:normal;font-size:10px;line-height:125%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.5px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;text-anchor:start"
+         y="-23.285973"
+         x="1076.7434"
+         id="tspan5835-5-2-6-7-5-3-2-8"
+         sodipodi:role="line">Signal</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5833-7-00-98-9-2-1-0-9-5"
+       y="-13.82258"
+       x="1076.7434"
+       style="font-style:normal;font-weight:normal;font-size:10px;line-height:125%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.5px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;text-anchor:start"
+         y="-13.82258"
+         x="1076.7434"
+         id="tspan5835-5-2-6-7-5-3-2-8-5"
+         sodipodi:role="line">Not connected</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5833-7-00-98-9-2-1-0-9-0"
+       y="-5.417881"
+       x="1076.7433"
+       style="font-style:normal;font-weight:normal;font-size:10px;line-height:125%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.5px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;text-anchor:start"
+         y="-5.417881"
+         x="1076.7433"
+         id="tspan5835-5-2-6-7-5-3-2-8-9"
+         sodipodi:role="line">3.3V</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5833-7-00-98-9-2-1-0-9-51"
+       y="3.2369328"
+       x="1076.7433"
+       style="font-style:normal;font-weight:normal;font-size:10px;line-height:125%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.5px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;text-anchor:start"
+         y="3.2369328"
+         x="1076.7433"
+         id="tspan5835-5-2-6-7-5-3-2-8-1"
+         sodipodi:role="line">VBB</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5833-7-00-98-9-2-1-0-9-51-0"
+       y="12.028233"
+       x="1076.9158"
+       style="font-style:normal;font-weight:normal;font-size:10px;line-height:125%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.5px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;text-anchor:start"
+         y="12.028233"
+         x="1076.9158"
+         id="tspan5835-5-2-6-7-5-3-2-8-1-9"
+         sodipodi:role="line">GND</tspan></text>
   </g>
 </svg>
