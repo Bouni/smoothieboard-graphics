@@ -15,7 +15,7 @@
    width="866.27441"
    height="778.39307"
    sodipodi:docname="smoothieboard-wiring.svg"
-   inkscape:export-filename="/home/bouni/projects/smoothieboard-graphics/smoothieboard-wiring.png"
+   inkscape:export-filename="D:\be\smoothieboard-graphics\smoothieboard-wiring.png"
    inkscape:export-xdpi="600.01044"
    inkscape:export-ydpi="600.01044">
   <title
@@ -86,16 +86,16 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1680"
-     inkscape:window-height="1028"
+     inkscape:window-width="1280"
+     inkscape:window-height="962"
      id="namedview4"
      showgrid="false"
      inkscape:snap-page="true"
      inkscape:zoom="1.0000001"
-     inkscape:cx="405.40339"
-     inkscape:cy="413.91288"
-     inkscape:window-x="1272"
-     inkscape:window-y="-8"
+     inkscape:cx="368.21752"
+     inkscape:cy="256.13713"
+     inkscape:window-x="-8"
+     inkscape:window-y="18"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer7"
      showguides="false"
@@ -10788,7 +10788,7 @@
        sodipodi:nodetypes="cc" />
     <path
        transform="translate(-322.38487,82.308661)"
-       style="display:inline;fill:none;fill-rule:evenodd;stroke:#aa0000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#f18100;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 515.03054,457.49828 -28.38532,0"
        id="path5730-5-05"
        inkscape:connector-curvature="0"
@@ -10797,15 +10797,15 @@
        transform="translate(-322.38487,82.308661)"
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="466.43997"
+       x="481.18497"
        y="460.1008"
        id="text5833-34"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5835-7"
-         x="466.43997"
+         x="481.18497"
          y="460.1008"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.5px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu">3.3V</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.5px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:end;text-anchor:end">5V</tspan></text>
     <text
        transform="translate(-322.38487,82.308661)"
        xml:space="preserve"
@@ -10906,13 +10906,13 @@
            id="tspan5835-0-59-0"
            x="546.43677"
            y="-457.77863"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.5px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu">3.3V</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.5px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu">5V</tspan></text>
       <path
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
          id="path5730-5-2-6"
          d="m 460.61136,511.43873 0,28.38532"
-         style="display:inline;fill:none;fill-rule:evenodd;stroke:#aa0000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="display:inline;fill:none;fill-rule:evenodd;stroke:#f18100;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:10px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -11796,7 +11796,7 @@
        sodipodi:nodetypes="cc" />
     <path
        transform="translate(-322.38487,82.308661)"
-       style="display:inline;fill:none;fill-rule:evenodd;stroke:#aa0000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#f18100;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 558.00282,505.43881 0,28.38532"
        id="path5730-5"
        inkscape:connector-curvature="0"
@@ -11817,7 +11817,7 @@
        sodipodi:nodetypes="cc" />
     <path
        transform="translate(-322.38487,82.308661)"
-       style="display:inline;fill:none;fill-rule:evenodd;stroke:#aa0000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#f18100;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 585.96221,505.43881 0,28.38532"
        id="path5730-5-2"
        inkscape:connector-curvature="0"
@@ -11838,7 +11838,7 @@
        sodipodi:nodetypes="cc" />
     <path
        transform="translate(-322.38487,82.308661)"
-       style="display:inline;fill:none;fill-rule:evenodd;stroke:#aa0000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#f18100;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 613.92457,505.43881 0,28.38532"
        id="path5730-5-4"
        inkscape:connector-curvature="0"
@@ -11859,7 +11859,7 @@
        sodipodi:nodetypes="cc" />
     <path
        transform="translate(-322.38487,82.308661)"
-       style="display:inline;fill:none;fill-rule:evenodd;stroke:#aa0000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#f18100;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 641.81704,505.43881 0,28.38532"
        id="path5730-5-7"
        inkscape:connector-curvature="0"
@@ -11880,7 +11880,7 @@
        sodipodi:nodetypes="cc" />
     <path
        transform="translate(-322.38487,82.308661)"
-       style="display:inline;fill:none;fill-rule:evenodd;stroke:#aa0000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#f18100;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 669.90115,505.43881 0,28.38532"
        id="path5730-5-0"
        inkscape:connector-curvature="0"
@@ -11901,7 +11901,7 @@
            y="-547.40033"
            x="546.45929"
            id="tspan5835"
-           sodipodi:role="line">3.3V</tspan></text>
+           sodipodi:role="line">5V</tspan></text>
       <text
          transform="matrix(0,1,-1,0,0,0)"
          sodipodi:linespacing="125%"
@@ -11956,7 +11956,7 @@
            y="-547.40033"
            x="546.45929"
            id="tspan5835-3"
-           sodipodi:role="line">3.3V</tspan></text>
+           sodipodi:role="line">5V</tspan></text>
       <text
          transform="matrix(0,1,-1,0,0,0)"
          sodipodi:linespacing="125%"
@@ -12000,7 +12000,7 @@
            y="-547.40033"
            x="546.45929"
            id="tspan5835-2"
-           sodipodi:role="line">3.3V</tspan></text>
+           sodipodi:role="line">5V</tspan></text>
       <text
          transform="matrix(0,1,-1,0,0,0)"
          sodipodi:linespacing="125%"
@@ -12044,7 +12044,7 @@
            y="-547.40033"
            x="546.45929"
            id="tspan5835-6"
-           sodipodi:role="line">3.3V</tspan></text>
+           sodipodi:role="line">5V</tspan></text>
       <text
          transform="matrix(0,1,-1,0,0,0)"
          sodipodi:linespacing="125%"
@@ -12088,7 +12088,7 @@
            y="-547.40033"
            x="546.45929"
            id="tspan5835-8"
-           sodipodi:role="line">3.3V</tspan></text>
+           sodipodi:role="line">5V</tspan></text>
       <text
          transform="matrix(0,1,-1,0,0,0)"
          sodipodi:linespacing="125%"
